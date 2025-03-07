@@ -1,0 +1,2 @@
+local Hint = Instance.new("Hint",game.Workspace)
+Hint.Text = "Backdoored By Nigger"
